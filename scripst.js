@@ -18,6 +18,20 @@ function imprimirvariables(){
  console.warn("Advertencia: x x x");
 
 }
+function arreglos(){
+    let frutas= ['manzanas', 'peras', 'fresa'];
+    //bucle
+    fort(let f of frutas){
+        console.log(f)
+    }
+
+    if (frutas[1]=== 'pera'  );
+    console.log("La segunda fruta es una fresa");
+}else{
+    
+}
+console.log('No es una pera');
+}
 
 
 ImprimirVariables();
